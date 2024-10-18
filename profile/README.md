@@ -1,12 +1,33 @@
-## Hi there 👋
+## 🛠 kscrew 猫踢和他的螺钉们的窝
 
-<!--
+> 青青子衿，悠悠我心。——《诗经》
 
-**Here are some ideas to get you started:**
+kscrew，汇聚了方块世界中的开发者与冒险者。我们以插件为笔，绘制无尽的可能，打造更加丰富多彩的游戏体验。正所谓：“志之所趋，无远弗届”，我们相信每一行代码，都是为玩家创造奇迹的种子。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌱 宗旨 - Purpose
+
+> 不积跬步，无以至千里；不积小流，无以成江海。——《荀子》
+
+kscrew致力于为 Minecraft 社区提供优质的螺钉插件，帮助服务器管理者轻松使用螺钉功能。
+
+## 🏞 项目 - Projects
+> 会当凌绝顶，一览众山小。——杜甫
+
+我们专注于开发和维护猫踢螺钉和螺钉的附属插件们，以下是我们的主要项目：
+
+暂无
+
+## 🍃 贡献 - Contributing
+宝剑锋从磨砺出，梅花香自苦寒来。——《警世贤文》
+
+欢迎各路英雄豪杰加入我们的行列，贡献智慧与代码。无论是提建议、修复 bug，或是添加新功能，都是我们江湖发展的动力。来吧，让我们一起书写一段开源的传奇！
+
+## 📜 章程 - Code of Conduct
+> 相逢一笑泯恩仇。——《水浒传》
+
+我们倡导开放、包容与协作的氛围，期待每一位侠士都能互相尊重，共同成长。请遵循 Code of Conduct，一同维护和谐美好的社区。
+
+## 🌠 展望 - Vision
+> 海内存知己，天涯若比邻。——王勃
+
+纵使江湖路远，我们亦心怀理想，勇敢前行。愿与四海有缘的方块人，共同迎接安慕希的璀璨未来。
